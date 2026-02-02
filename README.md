@@ -114,10 +114,11 @@ c_est = sqrt(lambda_est/pi)
 
 | Parameter | Meaning | Estimated Value |
 |----------|--------|----------------|
-| μ | Mean of z | 25.809622897811263 |
-| Variance | Spread of z | 342.36339017375917 |
-| λ | Precision | 0.001460436525489001 |
-| c | Normalization constant | 0.021560876239314918 |
+| μ | Mean of z | 25.810838442217115 |
+| Variance | Spread of z | 25.810838442217115 |
+| λ | Precision | 0.0014605237358096261 |
+| c | Normalization constant | 0.021561519986176458
+|
 
 ---
 
